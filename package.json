@@ -1,0 +1,9 @@
+{
+  "name": "my-workspace",
+  "private": true,
+  "workspaces": [
+    "../greycat/js/packages/greycat-core",
+    "../greycat/js/packages/greycat-core-wasm",
+    "packages/*"
+  ]
+}
